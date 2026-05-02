@@ -1,2 +1,6 @@
-# news-detector
-Here’s a **very short version**:  ---  This project is a Fake News Detection system built using Python and machine learning. It uses TF-IDF vectorization and a Logistic Regression model to classify news as fake or real based on text content. The model is trained on a real dataset and allows users to input news text for instant prediction.
+the dataset file size is too large to upload in github . so you can download the dataset and extract to run this code
+
+Download dataset from Kaggle:
+Fake and Real News Dataset
+
+Place the files (Fake.csv, True.csv) in the project folder before running.
